@@ -1,4 +1,4 @@
-[![MasterHead](Spandan.jpg)]
+[![MasterHead](Screenshot.png)]
 <h1 align="center">Hi 👋, I'm Spandan Banerjee</h1>
 <h3 align="center">Aspiring software developer eager to apply my skills into real-world projects. Passionate about learning and innovation.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
